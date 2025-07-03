@@ -15,6 +15,7 @@
 
 ## LeetCode Stats:
 ![](https://leetcard.jacoblin.cool/ScareCrow_17?theme=radical&font=Mandali&ext=activity)<br/>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lucii-666&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
