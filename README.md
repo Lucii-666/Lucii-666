@@ -13,7 +13,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=lucii-666&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucii-666&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## LeetCode Stats:
+## Coding Stats:
+[![wakatime](https://wakatime.com/badge/user/22f08f7f-43a6-45a3-bb5b-0d2aa4bf0fb3.svg)](https://wakatime.com/@22f08f7f-43a6-45a3-bb5b-0d2aa4bf0fb3)<br/>
 ![](https://leetcard.jacoblin.cool/ScareCrow_17?theme=radical&font=Mandali&ext=activity)<br/>
 
 ## 🏆 GitHub Trophies
