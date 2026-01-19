@@ -1,16 +1,32 @@
-##                                                                                                        Hey Everyone
-# 💫 About Me
-🔭 I’m currently working on Electronics and Coding Environments.<br>👯 I’m looking to collaborate on any Innovative ideas or Projects.<br>🤝 I’m available for help, Innovate, Learn, Guide and build with any type of electronics and coding projects.<br>🌱 I’m currently learning VLSI, Embedded Systems, Machine Learning and Data Strctures and ALgorithms<br>
+<div align="center">
 
+## Ashutosh Kumar Singh  
+**Electronics • Robotics • Embedded Systems • ML • DSA**  
+Gujarat, India 🇮🇳  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashu_kr._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-kumar-singh-255506287/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashutoshhjp1067@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-kumar-singh-255506287/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ashu_kr._/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashutoshhjp1067@gmail.com)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lucii-666&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
+
+```cpp
+// robotics in mind, circuits in hand ⚡🤖
+struct ASHUTOSH {
+    string location = "Gujarat, India";
+    string focus = "Electronics + Robotics + Coding Environments";
+    vector<string> learning = {
+        "VLSI", "Embedded Systems", "Machine Learning", "DSA"
+    };
+    vector<string> interests = {
+        "Robotics", "IoT", "Sensors", "Microcontrollers",
+        "Computer Vision", "Automation", "AI in Hardware"
+    };
+    string mindset = "Innovate • Learn • Build • Repeat";
+};
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lucii-666&label=Profile%20views&color=0e75b6&style=flat" alt="Lucii-666" />
 </p> 
