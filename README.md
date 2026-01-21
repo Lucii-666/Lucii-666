@@ -2,7 +2,7 @@
 
 # Hi, I'm Ashutosh Kumar Singh
 
-**Full-Stack Engineer | Robotics • Embedded Systems • Hardware • Software • Web**
+**Robotics • Embedded Systems • Hardware • Software • Web**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-kumar-singh-255506287/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashutoshhjp1067@gmail.com)
