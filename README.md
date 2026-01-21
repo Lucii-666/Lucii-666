@@ -26,6 +26,7 @@ struct ASHUTOSH {
     string mindset = "Innovate • Learn • Build • Repeat";
 };
 
+```
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lucii-666&label=Profile%20views&color=0e75b6&style=flat" alt="Lucii-666" />
 </p> 
