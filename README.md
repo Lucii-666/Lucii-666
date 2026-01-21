@@ -58,11 +58,11 @@ I focus on building **practical, reliable, and scalable systems**, with particul
 
 | Project | Description | Technologies | Status |
 |-------|------------|--------------|--------|
-| **Autonomous Mobile Robot (Simulation & Physical)** | Mobile robotic platform with perception and navigation developed in simulation and deployed on physical hardware | ROS2, Raspberry Pi, LiDAR, Python, Gazebo, Linux, USD | Ongoing |
-| **Gas Leakage Detection System** | Embedded system for real-time gas detection with alert mechanism | ATmega32, MQ-2 Gas Sensor, Embedded C | Completed |
-| **Sound-Activated Control System** | Event-driven embedded system triggered using sound input | Sound Sensor, Microcontroller, Embedded C | Completed |
+| **Autonomous Mobile Robot (Simulation & Physical)** | Mobile robotic platform with perception and navigation developed in simulation and deployed on physical hardware | ROS2, Raspberry Pi, Jetson Nano, LiDAR, Python, Gazebo, Linux, USD | Ongoing |
+| **Gas Leakage Detection System** | Embedded system for real-time gas detection with alert mechanism | Esp, Load Sensor, Gas Sensor, Arduino | Completed |
+| **Sound-Activated Control System** | Event-driven embedded system triggered using sound input | MPU6050, ATMEGA32, Sound Sensor, Embedded C | Completed |
 | **RF-Based Wireless Load Control** | Wireless control of electrical loads using RF encoder–decoder communication | HT12E, HT12D, 433 MHz RF, Relays | Completed |
-| **Voting Percentage Analysis Web Application** | Web application for calculating and analyzing voting turnout statistics | HTML, CSS, JavaScript | Ongoing |
+| **Voting Percentage Analysis Web Application** | Web application for calculating and analyzing voting turnout statistics | HTML, CSS, JavaScript, PHP | Ongoing |
 | **Music Player Web Application** | Web-based music player with playlist management and playback controls | HTML, CSS, JavaScript, ML, AI | Ongoing |
 
 
