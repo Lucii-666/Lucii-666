@@ -94,6 +94,6 @@ I am open to technical discussions, collaborative projects, and knowledge-sharin
 Feel free to connect via LinkedIn or email.
 
 ---
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lucii-666&label=Profile%20views&color=0e75b6&style=flat" alt="Lucii-666" />
-</p> 
+</p>  -->
